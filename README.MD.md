@@ -298,8 +298,8 @@ android:supportsRtl="true"
 
 ### 实验结果截图：
 
-![](C:\Users\admin\Desktop\PHOTP\1.png)
+![](./PHOTP\1.png)
 
-![](C:\Users\admin\Desktop\PHOTP\2.png)
+![](./PHOTP\2.png)
 
-![](C:\Users\admin\Desktop\PHOTP\3.png)
+![](./PHOTP\3.png)
